@@ -31,7 +31,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
                 android:gravity="center"
-                android:text="Trouvez mon logement à Niamey"
+                android:text="Trouver mon logement au Niger"
                 android:textColor="@android:color/secondary_text_dark" />
         </LinearLayout>
 

@@ -4,11 +4,8 @@ import com.loopj.android.http.AsyncHttpClient;
 import com.loopj.android.http.AsyncHttpResponseHandler;
 import com.loopj.android.http.RequestParams;
 
-/**
- * Created by brabo on 1/25/16.
- */
 public class ApiRestClient {
-    private static final String BASE_URL = "http://192.168.43.220:9000/";
+    private static final String BASE_URL = "https://guida-api.herokuapp.com/";
 
     private static AsyncHttpClient client = new AsyncHttpClient();
 
