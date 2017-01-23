@@ -6,6 +6,6 @@
         android:id="@+id/action_settings"
         android:orderInCategory="100"
         android:title="@string/action_settings"
-        android:icon="@drawable/ic_setting_dark"
+        android:icon="@drawable/ic_media_route_connecting_09_dark"
         app:showAsAction="always" />
 </menu>

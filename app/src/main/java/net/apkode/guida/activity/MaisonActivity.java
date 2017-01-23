@@ -45,6 +45,7 @@ public class MaisonActivity extends AppCompatActivity {
                 .fit().centerCrop()
                 .into(imageView);
 
+
       //  txtVille.setText(maison.getVille());
         txtQuartier.setText(maison.getQuartier());
      //   txtType.setText(maison.getType());
